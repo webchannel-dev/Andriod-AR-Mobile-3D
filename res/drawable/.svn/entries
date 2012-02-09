@@ -1,0 +1,54 @@
+8
+
+dir
+135
+https://192.168.110.150:8443/svn/PHOTINT-SOFTWARE-Sourcecode/Augmented_Reality/AR-MOBILE/Photint-AR-Sound3d/res/drawable
+https://192.168.110.150:8443/svn/PHOTINT-SOFTWARE-Sourcecode
+
+
+
+2011-10-05T09:04:20.860789Z
+103
+ky
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4694ae0b-3b59-d34f-af77-836fed89536f
+
+icon_qcar.png
+file
+
+
+
+
+2012-02-09T08:58:59.340463Z
+a232dcce2e29c6a64ab993a308121059
+2011-10-05T09:04:20.860789Z
+103
+ky
+has-props
+
+splash_screen_image_targets.png
+file
+
+
+
+
+2012-02-09T08:58:59.351463Z
+76cca673605d1d2135387320f40c295c
+2011-10-05T09:04:20.860789Z
+103
+ky
+has-props
+

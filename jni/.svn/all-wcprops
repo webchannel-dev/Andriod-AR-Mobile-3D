@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PHOTINT-SOFTWARE-Sourcecode/!svn/ver/112/Augmented_Reality/AR-MOBILE/Photint-AR-Sound3d/jni
+END
+Texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PHOTINT-SOFTWARE-Sourcecode/!svn/ver/112/Augmented_Reality/AR-MOBILE/Photint-AR-Sound3d/jni/Texture.cpp
+END
+SampleUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PHOTINT-SOFTWARE-Sourcecode/!svn/ver/112/Augmented_Reality/AR-MOBILE/Photint-AR-Sound3d/jni/SampleUtils.cpp
+END
+Cube.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PHOTINT-SOFTWARE-Sourcecode/!svn/ver/112/Augmented_Reality/AR-MOBILE/Photint-AR-Sound3d/jni/Cube.h
+END
+MultiTargets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PHOTINT-SOFTWARE-Sourcecode/!svn/ver/112/Augmented_Reality/AR-MOBILE/Photint-AR-Sound3d/jni/MultiTargets.cpp
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PHOTINT-SOFTWARE-Sourcecode/!svn/ver/112/Augmented_Reality/AR-MOBILE/Photint-AR-Sound3d/jni/Android.mk
+END
+Texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PHOTINT-SOFTWARE-Sourcecode/!svn/ver/112/Augmented_Reality/AR-MOBILE/Photint-AR-Sound3d/jni/Texture.h
+END
+banana.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PHOTINT-SOFTWARE-Sourcecode/!svn/ver/112/Augmented_Reality/AR-MOBILE/Photint-AR-Sound3d/jni/banana.h
+END
+SampleUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PHOTINT-SOFTWARE-Sourcecode/!svn/ver/112/Augmented_Reality/AR-MOBILE/Photint-AR-Sound3d/jni/SampleUtils.h
+END
+Application.mk
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PHOTINT-SOFTWARE-Sourcecode/!svn/ver/112/Augmented_Reality/AR-MOBILE/Photint-AR-Sound3d/jni/Application.mk
+END
+BowlAndSpoonModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PHOTINT-SOFTWARE-Sourcecode/!svn/ver/112/Augmented_Reality/AR-MOBILE/Photint-AR-Sound3d/jni/BowlAndSpoonModel.h
+END
+CubeShaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PHOTINT-SOFTWARE-Sourcecode/!svn/ver/112/Augmented_Reality/AR-MOBILE/Photint-AR-Sound3d/jni/CubeShaders.h
+END

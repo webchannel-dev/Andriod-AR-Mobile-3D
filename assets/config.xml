@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<QCARConfig xsi:noNamespaceSchemaLocation="qcar_config.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Tracking>
+        <ImageTarget name="FlakeBox.Front" size="90 120"/>
+        <ImageTarget name="FlakeBox.Right" size="60 120"/>
+        <ImageTarget name="FlakeBox.Top" size="90 60"/>
+        <ImageTarget name="FlakeBox.Back" size="90 120"/>
+        <ImageTarget name="FlakeBox.Left" size="60 120"/>
+        <ImageTarget name="FlakeBox.Bottom" size="90 60"/>
+      <MultiTarget name="FlakeBox">
+      <Part name="FlakeBox.Front" translation="0 0 30" rotation="AD: 1 0 0 0"/>
+      <Part name="FlakeBox.Back" translation="0 0 -30" rotation="AD: 0 1 0 180"/>
+      <Part name="FlakeBox.Left" translation="-45 0 0" rotation="AD: 0 1 0 -90"/>
+      <Part name="FlakeBox.Right" translation="45 0 0" rotation="AD: 0 1 0 90"/>
+      <Part name="FlakeBox.Top" translation="0 60 0" rotation="AD: 1 0 0 -90"/>
+      <Part name="FlakeBox.Bottom" translation="0 -60 0" rotation="AD: 1 0 0 90"/>
+    </MultiTarget>
+  </Tracking>
+</QCARConfig>
